@@ -6,7 +6,7 @@ namespace Mentormate_BIG_MM
 {
     public class Adapter
     {
-       static Action<string> printMultyRow = message => Console.WriteLine(message);
+       static Action<string> printMultiRow = message => Console.WriteLine(message);
 
        static Action<string> printOneRow = message => Console.Write(message);
 
@@ -14,7 +14,7 @@ namespace Mentormate_BIG_MM
         {
             string mmLogo = "Enter the length of the Logo => ";
 
-            string errorMessaga = "";
+            string errorMessagе = "";
 
             printOneRow(mmLogo);
 
@@ -27,9 +27,9 @@ namespace Mentormate_BIG_MM
                 bool isNumber = int.TryParse(input, out num);
                 if (!isNumber)
                 {
-                    errorMessaga = "Length must be a number!";
+                    errorMessagе = "Length must be a number!";
 
-                    printMultyRow(errorMessaga);
+                    printMultiRow(errorMessagе);
 
                     printOneRow(mmLogo);
 
@@ -47,8 +47,8 @@ namespace Mentormate_BIG_MM
                         }
                         else
                         {
-                            errorMessaga = "Length must be odd number!";
-                            printMultyRow(errorMessaga);
+                            errorMessagе = "Length must be odd number!";
+                            printMultiRow(errorMessagе);
 
                             printOneRow(mmLogo);
 
@@ -57,9 +57,9 @@ namespace Mentormate_BIG_MM
                     }
                     else
                     {
-                        errorMessaga = "Lenght must be from 3 to 10000";
+                        errorMessagе = "Lenght must be from 3 to 10000";
 
-                        printMultyRow(errorMessaga);
+                        printMultiRow(errorMessagе);
 
                         printOneRow(mmLogo);
 

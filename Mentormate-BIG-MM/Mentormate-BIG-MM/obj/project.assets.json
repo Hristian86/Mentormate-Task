@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pencho\\Desktop\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
+      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
       "projectName": "Mentormate-BIG-MM",
-      "projectPath": "C:\\Users\\Pencho\\Desktop\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
+      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
       "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pencho\\Desktop\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\obj\\",
+      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\Mentormate-BIG-MM\\Mentormate-BIG-MM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

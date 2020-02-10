@@ -20,3 +20,14 @@ C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp
 C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.AssemblyInfo.cs
 C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.dll
 C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.pdb
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.exe
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.deps.json
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.runtimeconfig.json
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.runtimeconfig.dev.json
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.dll
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\bin\Debug\netcoreapp3.1\Mentormate-BIG-MM.pdb
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.csprojAssemblyReference.cache
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.AssemblyInfoInputs.cache
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.AssemblyInfo.cs
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.dll
+E:\FilesForGithub\MentorMate-Task\Mentormate-Task\Mentormate-BIG-MM\Mentormate-BIG-MM\obj\Debug\netcoreapp3.1\Mentormate-BIG-MM.pdb
