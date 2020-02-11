@@ -18,8 +18,6 @@ namespace Mentormate_BIG_MM
 
             string[] temp = new string[number + 1];// temporary storage for reverse function
 
-            string[] temp1 = new string[number + 1]; // temporary storage for reverse function
-
             string star = "*";
             string minus = "-";
 
@@ -29,25 +27,23 @@ namespace Mentormate_BIG_MM
             MainEngine.SecondModule(number, star, minus, figures);
 
             // thirdModule is reversed second one
-            MainEngine.SecondModule(number, star, minus, temp1);
-
-            //Array.Reverse(temp1);
+            MainEngine.SecondModule(number, star, minus, temp);
 
             int reverseArray = figures.Length - 1;
 
             for (int d = 0; d < figures.Length; d++)
             {
-                figures[d] += temp1[reverseArray];
+                figures[d] += temp[reverseArray];
                 reverseArray--;
             }
+
+            Array.Clear(temp, 0, temp.Length);
 
             //fourthModule is the second one reusing code
             MainEngine.SecondModule(number, star, minus, figures);
 
             //fifthModule is the first one reversed reusing code
             MainEngine.FirstModule(number, minus, star, temp);
-
-            //Array.Reverse(temp);
 
             reverseArray = figures.Length - 1;
 
