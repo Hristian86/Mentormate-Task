@@ -31,11 +31,14 @@ namespace Mentormate_BIG_MM
             // thirdModule is reversed second one
             MainEngine.SecondModule(number, star, minus, temp1);
 
-            Array.Reverse(temp1);
+            //Array.Reverse(temp1);
+
+            int reverseArray = figures.Length - 1;
 
             for (int d = 0; d < figures.Length; d++)
             {
-                figures[d] += temp1[d];
+                figures[d] += temp1[reverseArray];
+                reverseArray--;
             }
 
             //fourthModule is the second one reusing code
@@ -44,11 +47,14 @@ namespace Mentormate_BIG_MM
             //fifthModule is the first one reversed reusing code
             MainEngine.FirstModule(number, minus, star, temp);
 
-            Array.Reverse(temp);
+            //Array.Reverse(temp);
+
+            reverseArray = figures.Length - 1;
 
             for (int i = 0; i < figures.Length; i++)
             {
-                figures[i] += temp[i];
+                figures[i] += temp[reverseArray];
+                reverseArray--;
             }
 
             string finalPorduct = "";
