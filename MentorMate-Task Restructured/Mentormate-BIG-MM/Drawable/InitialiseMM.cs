@@ -5,9 +5,8 @@ using ReversingEngine;
 using Output;
 using NumberCheker;
 using Engine;
-using RefranceStorage;
 
-namespace Drawable
+namespace Mentormate_BIG_MM
 {
     public class InitialiseMM
     {
@@ -17,32 +16,32 @@ namespace Drawable
             int number = 0;
 
             number = GetNumber.GetN();
-            
-            ArrayStorage figures = new ArrayStorage(number);
 
-            TemporaryArray temp = new TemporaryArray(number);
+            string[] figures = new string[number + 1];// main storage
+
+            string[] temp = new string[number + 1];// temporary storage for reverse function
 
             string star = "*";
             string minus = "-";
 
-            FirstEngine.FirstModule(number, star, minus, figures.GetArray());
+            FirstEngine.FirstModule(number, star, minus, figures);
 
-            SecondEngine.SecondModule(number, star, minus, figures.GetArray());
+            SecondEngine.SecondModule(number, star, minus, figures);
 
             // thirdModule is reversed second one:
-            SecondEngine.SecondModule(number, star, minus, temp.GetArray());
+            SecondEngine.SecondModule(number, star, minus, temp);
 
-            ReverseArray.ReverseArrayEng(figures.GetArray(), temp.GetArray());
+            ReverseArray.ReverseArrayEng(figures, temp);
 
             //fourthModule is the second one reusing code:
-            SecondEngine.SecondModule(number, star, minus, figures.GetArray());
+            SecondEngine.SecondModule(number, star, minus, figures);
 
             //fifthModule is the first one reversed reusing code:
-            FirstEngine.FirstModule(number, minus, star, temp.GetArray());
+            FirstEngine.FirstModule(number, minus, star, temp);
 
-            ReverseArray.ReverseArrayEng(figures.GetArray(), temp.GetArray());
+            ReverseArray.ReverseArrayEng(figures, temp);
 
-            Display.Print(ConvertToString.ConvertStr(figures.GetArray()));
+            Display.Print(ConvertToString.ConvertStr(figures));
         }
     }
 }

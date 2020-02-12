@@ -1,6 +1,4 @@
-﻿using Drawable;
-
-namespace Mentormate_BIG_MM
+﻿namespace Mentormate_BIG_MM
 {
     class StartUp
     {
