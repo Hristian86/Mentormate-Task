@@ -1,0 +1,17 @@
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\Adapter.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\MainEngine.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\NumberProcessor.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\Adapter.pdb
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\MainEngine.pdb
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\NumberProcessor.pdb
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\ReversedArray.dll
+C:\Users\Pencho\Desktop\Mentormate-BIG-MM\DataAccess\bin\Debug\netstandard2.0\ReversedArray.pdb
