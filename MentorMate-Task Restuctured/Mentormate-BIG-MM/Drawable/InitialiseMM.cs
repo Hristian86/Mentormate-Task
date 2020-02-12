@@ -6,7 +6,7 @@ using Output;
 using NumberCheker;
 using Engine;
 
-namespace Mentormate_BIG_MM
+namespace Drawable
 {
     public class InitialiseMM
     {
