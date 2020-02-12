@@ -28,6 +28,7 @@ namespace NumberCheker
                 if (!isNumber)
                 {
                     errorMessage = "Length must be a number!";
+
                     printMultyRow(errorMessage);
 
                     printOneRow(mmLogo);
@@ -47,6 +48,7 @@ namespace NumberCheker
                         else
                         {
                             errorMessage = "Length must be odd number!";
+
                             printMultyRow(errorMessage);
 
                             printOneRow(mmLogo);

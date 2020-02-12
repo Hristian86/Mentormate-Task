@@ -5,6 +5,7 @@ using ReversingEngine;
 using Output;
 using NumberCheker;
 using Engine;
+using RefranceStorage;
 
 namespace Drawable
 {
@@ -16,32 +17,32 @@ namespace Drawable
             int number = 0;
 
             number = GetNumber.GetN();
+            
+            ArrayStorage figures = new ArrayStorage(number);
 
-            string[] figures = new string[number + 1];// main storage
-
-            string[] temp = new string[number + 1];// temporary storage for reverse function
+            TemporaryArray temp = new TemporaryArray(number);
 
             string star = "*";
             string minus = "-";
 
-            FirstEngine.FirstModule(number, star, minus, figures);
+            FirstEngine.FirstModule(number, star, minus, figures.GetArray());
 
-            SecondEngine.SecondModule(number, star, minus, figures);
+            SecondEngine.SecondModule(number, star, minus, figures.GetArray());
 
             // thirdModule is reversed second one:
-            SecondEngine.SecondModule(number, star, minus, temp);
+            SecondEngine.SecondModule(number, star, minus, temp.GetArray());
 
-            ReverseArray.ReverseArrayEng(figures, temp);
+            ReverseArray.ReverseArrayEng(figures.GetArray(), temp.GetArray());
 
             //fourthModule is the second one reusing code:
-            SecondEngine.SecondModule(number, star, minus, figures);
+            SecondEngine.SecondModule(number, star, minus, figures.GetArray());
 
             //fifthModule is the first one reversed reusing code:
-            FirstEngine.FirstModule(number, minus, star, temp);
+            FirstEngine.FirstModule(number, minus, star, temp.GetArray());
 
-            ReverseArray.ReverseArrayEng(figures, temp);
+            ReverseArray.ReverseArrayEng(figures.GetArray(), temp.GetArray());
 
-            Display.Print(ConvertToString.ConvertStr(figures));
+            Display.Print(ConvertToString.ConvertStr(figures.GetArray()));
         }
     }
 }

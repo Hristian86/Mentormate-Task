@@ -8,7 +8,6 @@ namespace ReversingEngine
     {
         public static void ReverseArrayEng(string[] figures, string[] temp)
         {
-
             int reverseArray = figures.Length - 1;
 
             for (int d = 0; d < figures.Length; d++)
