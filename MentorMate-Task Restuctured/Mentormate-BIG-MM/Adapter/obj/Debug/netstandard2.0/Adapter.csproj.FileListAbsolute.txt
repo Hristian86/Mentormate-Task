@@ -1,8 +1,0 @@
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\bin\Debug\netstandard2.0\Adapter.deps.json
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\bin\Debug\netstandard2.0\Adapter.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\bin\Debug\netstandard2.0\Adapter.pdb
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\obj\Debug\netstandard2.0\Adapter.csprojAssemblyReference.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\obj\Debug\netstandard2.0\Adapter.AssemblyInfoInputs.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\obj\Debug\netstandard2.0\Adapter.AssemblyInfo.cs
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\obj\Debug\netstandard2.0\Adapter.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\Adapter\obj\Debug\netstandard2.0\Adapter.pdb

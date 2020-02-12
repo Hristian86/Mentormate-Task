@@ -1,8 +1,0 @@
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\bin\Debug\netstandard2.0\ReversedArray.deps.json
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\bin\Debug\netstandard2.0\ReversedArray.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\bin\Debug\netstandard2.0\ReversedArray.pdb
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\obj\Debug\netstandard2.0\ReversedArray.csprojAssemblyReference.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\obj\Debug\netstandard2.0\ReversedArray.AssemblyInfoInputs.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\obj\Debug\netstandard2.0\ReversedArray.AssemblyInfo.cs
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\obj\Debug\netstandard2.0\ReversedArray.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\ReversedArray\obj\Debug\netstandard2.0\ReversedArray.pdb

@@ -1,8 +1,0 @@
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\bin\Debug\netstandard2.0\MainEngine.deps.json
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\bin\Debug\netstandard2.0\MainEngine.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\bin\Debug\netstandard2.0\MainEngine.pdb
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\obj\Debug\netstandard2.0\MainEngine.csprojAssemblyReference.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\obj\Debug\netstandard2.0\MainEngine.AssemblyInfoInputs.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\obj\Debug\netstandard2.0\MainEngine.AssemblyInfo.cs
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\obj\Debug\netstandard2.0\MainEngine.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\MainEngine\obj\Debug\netstandard2.0\MainEngine.pdb

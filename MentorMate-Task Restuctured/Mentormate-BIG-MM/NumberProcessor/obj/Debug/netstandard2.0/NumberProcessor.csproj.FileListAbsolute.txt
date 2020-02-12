@@ -1,8 +1,0 @@
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\bin\Debug\netstandard2.0\NumberProcessor.deps.json
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\bin\Debug\netstandard2.0\NumberProcessor.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\bin\Debug\netstandard2.0\NumberProcessor.pdb
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\obj\Debug\netstandard2.0\NumberProcessor.AssemblyInfoInputs.cache
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\obj\Debug\netstandard2.0\NumberProcessor.AssemblyInfo.cs
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\obj\Debug\netstandard2.0\NumberProcessor.dll
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\obj\Debug\netstandard2.0\NumberProcessor.pdb
-C:\Users\Pencho\Desktop\Mentormate-BIG-MM\NumberProcessor\obj\Debug\netstandard2.0\NumberProcessor.csprojAssemblyReference.cache
