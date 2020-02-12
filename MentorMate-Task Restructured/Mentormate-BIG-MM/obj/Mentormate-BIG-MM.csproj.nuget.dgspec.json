@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructored\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj": {}
+    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructured\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj": {}
   },
   "projects": {
-    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructored\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj": {
+    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructured\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructored\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
+        "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructured\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
         "projectName": "Mentormate-BIG-MM",
-        "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructored\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
+        "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructured\\Mentormate-BIG-MM\\Mentormate-BIG-MM.csproj",
         "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-        "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructored\\Mentormate-BIG-MM\\obj\\",
+        "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restructured\\Mentormate-BIG-MM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
