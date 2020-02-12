@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj",
+      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj",
       "projectName": "MainEngine",
-      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj",
+      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj",
       "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\obj\\",
+      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -19,15 +19,12 @@ namespace MainEngine.Engine
                     if (s <= i) // border betwean stars and minuses
                     {
                         moduleConstrunctor += star;
-                        //      Console.Write(star);
                     }
                     else
                     {
                         moduleConstrunctor += minus;
-                        //      Console.Write(minus);
                     }
                 }
-                //Console.WriteLine();
                 figures[i] += moduleConstrunctor;
                 moduleConstrunctor = ""; //clearing string
             }

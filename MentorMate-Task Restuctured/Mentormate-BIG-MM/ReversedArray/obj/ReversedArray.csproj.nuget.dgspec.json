@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {}
+    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {}
   },
   "projects": {
-    "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {
+    "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj",
+        "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj",
         "projectName": "ReversedArray",
-        "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj",
+        "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj",
         "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-        "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\obj\\",
+        "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

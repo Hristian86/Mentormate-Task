@@ -250,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\obj\\",
+      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -275,17 +275,17 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\Adapter\\Adapter.csproj": {
-              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\Adapter\\Adapter.csproj"
+            "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\Adapter\\Adapter.csproj": {
+              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\Adapter\\Adapter.csproj"
             },
-            "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj": {
-              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj"
+            "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj": {
+              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\MainEngine\\MainEngine.csproj"
             },
-            "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj": {
-              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj"
+            "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj": {
+              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj"
             },
-            "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {
-              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj"
+            "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj": {
+              "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\ReversedArray\\ReversedArray.csproj"
             }
           }
         }

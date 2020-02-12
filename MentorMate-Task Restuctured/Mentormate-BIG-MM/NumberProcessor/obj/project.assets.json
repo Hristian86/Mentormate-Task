@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj",
+      "projectUniqueName": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj",
       "projectName": "NumberProcessor",
-      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj",
+      "projectPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\NumberProcessor.csproj",
       "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\obj\\",
+      "outputPath": "E:\\FilesForGithub\\MentorMate-Task\\Mentormate-Task\\MentorMate-Task Restuctured\\Mentormate-BIG-MM\\NumberProcessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
