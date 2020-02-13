@@ -6,7 +6,7 @@ using InputReader;
 
 namespace NumberCheker
 {
-    public class GetNumber
+    class GetNumber
     {
         public static int GetN()
         {

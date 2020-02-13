@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OutputWriter
 {
-    public class Display
+    class Display
     {
         static Action<string> printOneRow = message => Console.Write(message);
 

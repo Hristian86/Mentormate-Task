@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OutputWriter
 {
-    public class ConvertToString
+    class ConvertToString
     {
         public static string ConvertStr(string[] figures)
         {

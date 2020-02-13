@@ -8,7 +8,7 @@ using Engine;
 
 namespace Drawable
 {
-    public class InitialiseMM
+    class InitialiseMM
     {
         public static void Initialise()
         {
