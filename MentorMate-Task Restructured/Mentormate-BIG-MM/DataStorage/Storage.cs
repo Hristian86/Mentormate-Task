@@ -4,14 +4,17 @@ using System.Text;
 
 namespace DataStorage
 {
-    public class Storage
+    public class Storage : Attribute
     {
         private string[] figures;
-
         private string[] temp;
 
-        public Storage(int number)
+        private string star = "*";
+        private string minus = "-";
+
+        public Storage(int number) : base()
         {
+            
             figures = new string[number + 1];
             temp = new string[number + 1];
         }
@@ -24,6 +27,22 @@ namespace DataStorage
         public string[] GetTemp()
         {
             return this.temp;
+        }
+
+        public string Star
+        {
+            get
+            {
+                return this.star;
+            }
+        }
+
+        public string Minus
+        {
+            get
+            {
+                return this.minus;
+            }
         }
     }
 }
