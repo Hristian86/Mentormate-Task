@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ReversingEngine
 {
-    class ReverseArray
+    public class ReverseArray
     {
         public static void ReverseArrayEng(string[] figures, string[] temp)
         {

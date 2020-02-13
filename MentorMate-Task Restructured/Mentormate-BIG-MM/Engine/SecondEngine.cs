@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Engine
 {
-    class SecondEngine
+    public class SecondEngine
     {
         public static void SecondModule(int number, string star, string minus, string[] figures)
         {

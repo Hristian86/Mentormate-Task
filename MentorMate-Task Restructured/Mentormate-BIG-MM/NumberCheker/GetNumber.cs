@@ -6,7 +6,7 @@ using InputReader;
 
 namespace NumberCheker
 {
-    class GetNumber
+    public class GetNumber
     {
         public static int GetN()
         {
@@ -23,6 +23,7 @@ namespace NumberCheker
             while (true)
             {
                 bool isNumber = int.TryParse(input, out num);
+
                 if (!isNumber)
                 {
                     errorMessage = "Length must be a number!";

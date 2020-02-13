@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OutputWriter
 {
-    class Display
+    public class Display
     {
         static Action<string> printOneRow = message => Console.Write(message);
 
@@ -12,12 +12,12 @@ namespace OutputWriter
 
         public static void PrintNewLine(string display)
         {
-            printMultyRow(display.Trim());
+            printMultyRow(display);
         }
 
         public static void Print(string display)
         {
-            printOneRow(display.Trim());
+            printOneRow(display);
         }
     }
 }

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OutputWriter
+namespace StringConvert
 {
-    class ConvertToString
+    public class ConvertToString
     {
         public static string ConvertStr(string[] figures)
         {
@@ -16,7 +16,7 @@ namespace OutputWriter
                 finalPorduct += figures[i] + figures[i] + Environment.NewLine;
             }
 
-            return finalPorduct;
+            return finalPorduct.Trim();
         }
     }
 }

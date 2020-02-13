@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InputReader
 {
-    class InputRead
+    public class InputRead
     {
         public static string GetInput()
         {
