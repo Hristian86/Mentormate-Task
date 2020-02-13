@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using ReversingEngine;
-using Output;
+using OutputWriter;
 using NumberCheker;
 using Engine;
 

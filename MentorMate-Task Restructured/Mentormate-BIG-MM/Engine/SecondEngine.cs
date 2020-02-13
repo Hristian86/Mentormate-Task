@@ -15,7 +15,7 @@ namespace Engine
 
             int insideMinuse = 1;
 
-            int lineStars = number / 2;
+            int lineStars = (number - 1) / 2;
 
             //row
             for (int i = 0; i <= number; i++)

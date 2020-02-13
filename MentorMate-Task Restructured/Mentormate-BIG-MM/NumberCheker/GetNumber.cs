@@ -1,24 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using OutputWriter;
+using InputReader;
 
 namespace NumberCheker
 {
     public class GetNumber
     {
-        static Action<string> printMultyRow = message => Console.WriteLine(message);
-
-        static Action<string> printOneRow = message => Console.Write(message);
-
         public static int GetN()
         {
-            string mmLogo = "Enter the length of the Logo => ";
+            string mmLogo = "Enter the length of the Logo N=> ";
 
             string errorMessage = "";
 
-            printOneRow(mmLogo);
+            Display.Print(mmLogo);
 
-            string input = Console.ReadLine();
+            string input = InputRead.GetInput();
 
             int num = 0;
 
@@ -29,11 +27,11 @@ namespace NumberCheker
                 {
                     errorMessage = "Length must be a number!";
 
-                    printMultyRow(errorMessage);
+                    Display.PrintNewLine(errorMessage);
 
-                    printOneRow(mmLogo);
+                    Display.Print(mmLogo);
 
-                    input = Console.ReadLine();
+                    input = InputRead.GetInput();
                 }
                 else
                 {
@@ -49,22 +47,22 @@ namespace NumberCheker
                         {
                             errorMessage = "Length must be odd number!";
 
-                            printMultyRow(errorMessage);
+                            Display.PrintNewLine(errorMessage);
 
-                            printOneRow(mmLogo);
+                            Display.Print(mmLogo);
 
-                            input = Console.ReadLine();
+                            input = InputRead.GetInput();
                         }
                     }
                     else
                     {
                         errorMessage = "Lenght must be between 2 and 10000";
 
-                        printMultyRow(errorMessage);
+                        Display.PrintNewLine(errorMessage);
 
-                        printOneRow(mmLogo);
+                        Display.Print(mmLogo);
 
-                        input = Console.ReadLine();
+                        input = InputRead.GetInput();
                     }
                 }
             }

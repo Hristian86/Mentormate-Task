@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Output
+namespace OutputWriter
 {
     public class ConvertToString
     {

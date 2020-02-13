@@ -7,6 +7,6 @@ namespace Mentormate_BIG_MM
         static void Main(string[] args)
         {
             InitialiseMM.Initialise();
-        }       
+        }
     }
 }
