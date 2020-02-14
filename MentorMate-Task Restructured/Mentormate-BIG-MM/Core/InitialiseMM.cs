@@ -5,7 +5,7 @@ using ReversingEngine;
 using OutputWriter;
 using NumberCheker;
 using Engine;
-using DataStorage;
+using Data;
 using StringConvert;
 
 namespace Core
@@ -21,7 +21,6 @@ namespace Core
 
             //object contains symbols and arrays for structure
             Storage figures = new Storage(number);
-            
            
             FirstEngine.FirstModule(number, figures.Star, figures.Minus, figures.GetFigures());
 
