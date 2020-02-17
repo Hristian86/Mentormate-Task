@@ -1,0 +1,14 @@
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.exe
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.deps.json
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.runtimeconfig.json
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.dll
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MentorMate-BigMM.pdb
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MainEngine.dll
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\bin\Debug\netcoreapp3.1\MainEngine.pdb
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.csproj.CopyComplete
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.dll
+C:\Users\Pencho\source\repos\MentorMate-BigMM\MentorMate-BigMM\obj\Debug\netcoreapp3.1\MentorMate-BigMM.pdb
